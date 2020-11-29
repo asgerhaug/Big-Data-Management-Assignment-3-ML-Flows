@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Asger/OneDrive/University/Software%20Design/Big%20Data%20Management/Assignment%203%20-%20ML%20flow/mlruns/3/482d7c819ba24d66af5d6dae2bba7bcf/artifacts
+end_time: 1606670912705
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+name: ''
+run_id: 482d7c819ba24d66af5d6dae2bba7bcf
+run_uuid: 482d7c819ba24d66af5d6dae2bba7bcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1606670865666
+status: 3
+tags: []
+user_id: Asger
