@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Asger/OneDrive/University/Software%20Design/Big%20Data%20Management/Assignment%203%20-%20ML%20flow/mlruns/2/7e4e01883bf6488c82e73f7a3e5b8cd0/artifacts
+end_time: 1619599185512
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+name: ''
+run_id: 7e4e01883bf6488c82e73f7a3e5b8cd0
+run_uuid: 7e4e01883bf6488c82e73f7a3e5b8cd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1619599185472
+status: 4
+tags: []
+user_id: CPNASH

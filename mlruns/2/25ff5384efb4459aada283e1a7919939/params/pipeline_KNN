@@ -1,0 +1,11 @@
+Pipeline(steps=[('preprocessor',
+                 ColumnTransformer(transformers=[('num',
+                                                  SimpleImputer(strategy='constant'),
+                                                  ['Speed']),
+                                                 ('cat',
+                                                  Pipeline(steps=[('imputer',
+                                                                   SimpleImputer(strategy='most_frequent')),
+                                                                  ('onehot',
+                                                                   OneHotEncoder(handle_unknown='ignore'))]),
+                                                  ['Direction'])])),
+                ('model', KNeighborsRegressor())])
